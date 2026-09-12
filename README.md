@@ -21,7 +21,7 @@ Power BI Desktop (Power Query, Data Modeling, DAX), Excel (source data)
 ## Links
 [Dashboard Screenshots](https://github.com/kashifusman100/Marketing-Analytics/tree/main/Dashboard_Screenshots)
 
-[Dataset](https://github.com/kashifusman100/Marketing-Analytics/tree/main/Dataset)
+[Power BI File](https://github.com/kashifusman100/Marketing-Analytics/tree/main)
 
 ## Model View
 
