@@ -6,7 +6,14 @@ A Power BI dashboard analyzing marketing performance across campaigns, ad spend,
 The dataset covers two years of marketing activity across 8 channels, spread across 10 related tables, orders, ad spend, web traffic, email sends, customer reviews, and lookup tables for customers, products, and campaigns. It comes as a raw export with several data quality issues: inconsistent date formats, mismatched country names, currency stored as text, and duplicate rows. Total scope is a few thousand orders, 30 campaigns across multiple countries.
 
 ## Problem Statement
-Marketing spend was spread across several channels with no single view of which ones were actually paying off. Leadership needed to see which channels drove the best return on ad spend, where the email funnel was losing people, which products and regions generated the most revenue, and what customers were saying in reviews. The raw data also needed to be cleaned and modeled properly before any of that analysis was possible.
+Marketing spend was spread across multiple channels with no clear view of which ones were actually working. This project aims to answer key questions:
+
+- Which marketing channels deliver the best return on ad spend, and which ones are underperforming?
+- How does revenue break down across product categories and regions?
+- Where in the email funnel are customers dropping off — opens, clicks, or somewhere else?
+- Which products and campaigns are driving the most revenue?
+- How does customer sentiment (ratings, reviews) vary across product categories?
+- What does the customer base look like by segment, and how many are at risk of churning?
 
 ## Tools Used
 Power BI Desktop (Power Query, Data Modeling, DAX), Excel (source data)
