@@ -5,7 +5,7 @@ A Power BI dashboard analyzing marketing performance across campaigns, ad spend,
 ## Project Description
 The dataset covers two years of marketing activity across 8 channels, spread across 10 related tables, orders, ad spend, web traffic, email sends, customer reviews, and lookup tables for customers, products, and campaigns. It comes as a raw export with several data quality issues: inconsistent date formats, mismatched country names, currency stored as text, and duplicate rows. Total scope is a few thousand orders, 30 campaigns across multiple countries.
 
-## Problem Statement
+## Identified Business Challenges
 Marketing spend was spread across multiple channels with no clear view of which ones were actually working. This project aims to answer key questions:
 
 - Which marketing channels deliver the best return on ad spend, and which ones are underperforming?
