@@ -8,5 +8,12 @@ The dataset covers two years of marketing activity across 8 channels, spread acr
 ## Problem Statement
 Marketing spend was spread across several channels with no single view of which ones were actually paying off. Leadership needed to see which channels drove the best return on ad spend, where the email funnel was losing people, which products and regions generated the most revenue, and what customers were saying in reviews. The raw data also needed to be cleaned and modeled properly before any of that analysis was possible.
 
-## Software
-Microsoft Power BI
+## Tools Used
+Power BI Desktop (Power Query, Data Modeling, DAX), Excel (source data)
+
+## Links
+Marketing Analytics Dashboard PBIX File
+Dataset
+Dashboard Screenshots
+
+
