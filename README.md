@@ -24,8 +24,11 @@ Power BI Desktop (Power Query, Data Modeling, DAX), Excel (source data)
 [Power BI File](https://github.com/kashifusman100/Marketing-Analytics/tree/main/Power%20BI%20File)
 
 
-## Model View
+## Quick Dashboard Demo
 https://github.com/user-attachments/assets/5b255821-2436-476c-907f-8cd6a60cd5bf
+
+## Model View
+<img width="1193" height="736" alt="Image" src="https://github.com/user-attachments/assets/a6bb23c8-9bfe-4a56-956a-cf8bd844c7f2" />
 
 ## Key Insights & Findings
 - Marketing ROI & Channel Performance: Instagram Ads is the top-performing channel with a 5.61 ROAS despite a lower budget allocation. Facebook Ads absorbed the highest spend ($50K) with poor efficiency (2.27 ROAS), while Google Ads (1.55) and Referrals (1.81) consistently underperformed.
