@@ -19,9 +19,8 @@ Marketing spend was spread across multiple channels with no clear view of which 
 Power BI Desktop (Power Query, Data Modeling, DAX), Excel (source data)
 
 ## Links
-Marketing Analytics Dashboard PBIX File
 Dataset
-Dashboard Screenshots
+{Dashboard Screenshots}(https://github.com/kashifusman100/Marketing-Analytics/tree/main/Dashboard_Screenshots)
 
 ## Key Insights & Findings
 - Marketing ROI & Channel Performance: Instagram Ads is the top-performing channel with a 5.61 ROAS despite a lower budget allocation. Facebook Ads absorbed the highest spend ($50K) with poor efficiency (2.27 ROAS), while Google Ads (1.55) and Referrals (1.81) consistently underperformed.
