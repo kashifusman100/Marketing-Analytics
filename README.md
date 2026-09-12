@@ -1,5 +1,5 @@
 # Marketing-Analytics
-A Power BI dashboard analyzing marketing performance across campaigns, ad spend, web traffic, email, and customer feedback for a mid-size company running ads on Facebook, Google, TikTok, and a few other channels.
+An end-to-end Power BI dashboard analyzing marketing performance across campaigns, ad spend, web traffic, email, and customer feedback. Cleaned and modeled the data, fixed data quality issues, and created DAX measures to answer key business questions.
 
 
 ## Project Description
