@@ -1,7 +1,6 @@
 # Marketing-Analytics
 An end-to-end Power BI dashboard analyzing marketing performance across campaigns, ad spend, web traffic, email, and customer feedback. Cleaned and modeled the data, fixed data quality issues, and created DAX measures to answer key business questions.
 
-
 ## Project Description
 The dataset covers two years of marketing activity across 8 channels, spread across 10 related tables, orders, ad spend, web traffic, email sends, customer reviews, and lookup tables for customers, products, and campaigns. It comes as a raw export with several data quality issues: inconsistent date formats, mismatched country names, currency stored as text, and duplicate rows. Total scope is a few thousand orders, 30 campaigns across multiple countries.
 
@@ -31,9 +30,10 @@ https://github.com/user-attachments/assets/5b255821-2436-476c-907f-8cd6a60cd5bf
 <img width="1193" height="736" alt="Image" src="https://github.com/user-attachments/assets/a6bb23c8-9bfe-4a56-956a-cf8bd844c7f2" />
 
 ## Key Insights & Findings
-- Marketing ROI & Channel Performance: Instagram Ads is the top-performing channel with a 5.61 ROAS despite a lower budget allocation. Facebook Ads absorbed the highest spend ($50K) with poor efficiency (2.27 ROAS), while Google Ads (1.55) and Referrals (1.81) consistently underperformed.
-- Revenue Breakdown: The business does not rely on a single revenue driver. Revenue is evenly distributed across core product lines (Beauty: $233K, Apparel: $230K, Electronics: $225K) and regions (US leads at $185K; Australia/India lowest at $130K). 
-- Email Funnel Bottleneck: The main funnel drop-off occurs at the open stage (only 26% of 1.08M emails opened), rather than downstream engagement (<5% click rate among opens).
-- Customer Sentiment Disconnect: Overall ratings skew positive (3.73/5 average, 68% positive ratings). However, Beauty shows a satisfaction gap driving the highest revenue while holding the lowest rating (2.8/5).
-- Customer Retention: Segments are evenly distributed, with Churned customers accounting for 13.7% of the user base, indicating low immediate churn risk.
+
+- **Marketing ROI & Channel Performance:** Instagram Ads is the top-performing channel with a 5.61 ROAS despite a lower budget allocation. Facebook Ads absorbed the highest spend ($50K) with poor efficiency (2.27 ROAS), while Google Ads (1.55) and Referrals (1.81) consistently underperformed.
+- **Revenue Breakdown:** The business does not rely on a single revenue driver. Revenue is evenly distributed across core product lines (Beauty: $233K, Apparel: $230K, Electronics: $225K) and regions (US leads at $185K; Australia/India lowest at $130K). 
+- **Email Funnel Bottleneck:** The main funnel drop-off occurs at the open stage (only 26% of 1.08M emails opened), rather than downstream engagement (<5% click rate among opens).
+- **Customer Sentiment Disconnect:** Overall ratings skew positive (3.73/5 average, 68% positive ratings). However, Beauty shows a satisfaction gap driving the highest revenue while holding the lowest rating (2.8/5).
+- **Customer Retention:** Segments are evenly distributed, with Churned customers accounting for 13.7% of the user base, indicating low immediate churn risk.
 
